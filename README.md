@@ -11,4 +11,4 @@ A game built using swing.
 
 ## Getting Started <a name = "getting_started"></a>
 
-A player who collected firsly 4 X's or O's wins.
+A player who collected firstly 4 X's or O's wins.
